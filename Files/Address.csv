@@ -1,0 +1,151 @@
+,AddressID,AddressLine1,City,StateProvinceID,PostalCode
+100,24427,1007 Cardinet Dr.,El Cajon,9,92020
+101,22959,1008 Lydia Lane,Burbank,9,91502
+102,24827,"1009, rue des Bouchers",Colomiers,117,31770
+103,11975,101 Adobe Dr,Coffs Harbour,50,2450
+104,13715,101 Adobe Dr,Puyallup,79,98371
+105,215,101 Candy Rd.,Redmond,79,98052
+106,13669,"101, avenue de la Gare",Peterborough,14,PB12
+107,14087,"101, avenue de la Gare",Roissy en Brie,163,77680
+108,11832,"101, avenue des Champs-Elysées",Colombes,178,92700
+109,21677,"101, avenue Reille",Versailles,164,78000
+110,17455,"101, rue de Cambrai",Roubaix,145,59100
+111,25462,"101, rue de Terre Neuve",Paris,161,75010
+112,17558,"101, rue Léo Delibes",Paris,161,75009
+113,11383,1010 Maple,Baltimore,32,21201
+114,14597,"1010, avenue de l´ Union Centrale",Saint Germain en Laye,164,78100
+115,21574,"1010, impasse Notre-Dame",Orleans,131,45000
+116,21686,1011 Green St.,Bellingham,79,98225
+117,24373,1011 Yolanda Circle,Berkeley,9,94704
+118,21121,1011 Yolanda Circle,N. Vancouver,7,V7L 4J4
+119,25059,"1011, avenue Foch",Pantin,179,93500
+120,28226,1013 Buchanan Rd,Port Macquarie,50,2444
+121,28485,1013 Buchanan Rd,Yakima,79,98901
+122,25633,1013 Holiday Hills Dr.,Bremerton,79,98312
+123,26683,1013 Holiday Hills Dr.,Gateshead,14,GA10
+124,20313,1015 Lynwood Drive,Metchosin,7,V9
+125,11855,1016 Park Avenue,Burbank,9,91502
+126,15922,1019 Book Road,Rhodes,50,2138
+127,25529,1019 Buchanan Road,Woodland Hills,9,91364
+128,18917,1019 Candy Rd.,Coffs Harbour,50,2450
+129,21281,1019 Carletto Drive,Berkeley,9,94704
+130,12444,1019 Chance Drive,Sedro Woolley,79,98284
+131,27779,1019 Kenwal Rd.,Lake Oswego,58,97034
+132,28433,1019 Mt. Davidson Court,Burien,79,98168
+133,17038,1019 Mt. Davidson Court,London,14,SW8 4BG
+134,13354,1019 Pennsylvania Blvd,Marysville,79,98270
+135,355,102 Silverado Drive,W. Linn,58,97068
+136,27547,102 Vista Place,Milton Keynes,14,MK8 8DF
+137,15015,102 Vista Place,Santa Monica,9,90401
+138,11456,"102, rue de Berri",Les Ulis,177,91940
+139,12359,1020 Book Road,Bremerton,79,98312
+140,25449,1020 Carletto Drive,Matraville,50,2036
+141,27683,1020 Carletto Drive,Santa Cruz,9,95062
+142,19089,"1020, quai de Grenelle",Croix,145,59170
+143,15467,"1020, quai de Grenelle",Versailles,164,78000
+144,33,10203 Acorn Avenue,Calgary,1,T2P 2G8
+145,11706,1023 Hawkins Street,Lebanon,58,97355
+146,27149,1023 Hawkins Street,Townsville,64,4810
+147,26959,1023 Riveria Way,Burbank,9,91502
+148,12148,1023 Riviera Way,Oxford,14,OX1
+149,22014,1024 Walnut Blvd.,Colma,9,94014
+150,29504,1025 Holly Oak Drive,Leeds,14,LE18
+151,29096,1025 R St.,Kirkland,79,98033
+152,12787,1025 Yosemite Dr.,Oregon City,58,97045
+153,24604,1025 Yosemite Dr.,Townsville,64,4810
+154,27875,"10257, avenue de l´Europe",Saint-Denis,179,93400
+155,21807,1026 Mt. Wilson Pl.,Lynnwood,79,98036
+156,24165,1026 Mt. Wilson Pl.,South Melbourne,77,3205
+157,20407,1028 Green View Court,Chula Vista,9,91910
+158,18329,1028 Green View Court,Oregon City,58,97045
+159,26805,1028 Indigo Ct.,Issaquah,79,98027
+160,19489,1028 Indigo Ct.,Warrnambool,77,3280
+161,24310,1028 Royal Oak Rd.,Burlingame,9,94010
+162,27838,1029 Birchwood Dr,Burien,79,98168
+163,14851,1029 Birchwood Dr,Olympia,79,98501
+164,19207,"103, avenue des Champs-Elysées",Paris La Defense,178,92081
+165,17984,"103, rue de Fontfroide",Lille,145,59000
+166,17950,1030 Ambush Dr.,Bury,14,PE17
+167,11856,1032 Buena Vista,North Ryde,50,2113
+168,18817,1032 Coats Road,Stoke-on-Trent,14,AS23
+169,16962,1032 Cowell Road,Colombes,178,92700
+170,23530,1035 Arguello Blvd.,San Diego,9,92102
+171,29248,"1035, boulevard du Montparnasse",Paris,161,75002
+172,17385,1036 Mason Dr,Port Orchard,79,98366
+173,19388,1037 Hayes Court,Stoke-on-Trent,14,AS23
+174,25893,1039 Adelaide St.,Port Macquarie,50,2444
+175,22698,1039 Adelaide St.,West Covina,9,91791
+176,28740,"1039, rue Mazagran",Drancy,179,93700
+177,24852,104 Hilltop Dr.,Concord,9,94519
+178,26156,104 Hilltop Dr.,Springwood,50,2777
+179,21304,104 Kaski Ln.,Portland,58,97205
+180,21223,1040 Greenbush Drive,Newton,7,V2L3W8
+181,27234,1040 Greenbush Drive,Silverwater,50,2264
+182,20210,1040 Northridge Road,London,14,W1X3SE
+183,24829,1040 Northridge Road,Woodland Hills,9,91364
+184,24007,1042 Hooftrail Way,Newcastle,50,2300
+185,20090,1044 San Carlos,Cincinnati,55,45202
+186,19128,1045 Lolita Drive,Torrance,9,90505
+187,27798,1045 Lolita Drive,Townsville,64,4810
+188,21596,1046 Cloverleaf Circle,Shawnee,7,V8Z 4N5
+189,15654,1046 San Carlos Avenue,Colma,9,94014
+190,29004,1047 Las Quebradas Lane,North Sydney,50,2055
+191,15558,1047 Las Quebradas Lane,Oak Bay,7,V8P
+192,25019,1048 Burwood Way,Haney,7,V2W 1W2
+193,17568,1048 Burwood Way,Hervey Bay,64,4655
+194,20910,1048 Las Quebradas Lane,Walla Walla,79,99362
+195,24431,1048 Las Quebradas Lane,Wollongong,50,2500
+196,25867,105 Clark Creek Lane,Port Macquarie,50,2444
+197,12650,105 Woodruff Ln.,Bellingham,79,98225
+198,24162,105 Woodruff Ln.,Oakland,9,94611
+199,13883,1050 Creed Ave,Lebanon,58,97355
+200,25816,1050 Creed Ave,London,14,W10 6BL
+201,26942,1050 Greenhills Circle,Lane Cove,50,1597
+202,16841,1050 Greenhills Circle,Langley,7,V3A 4R2
+203,859,1050 Oak Street,Seattle,79,98104
+204,26989,1052 Stanford Street,El Cajon,9,92020
+205,19979,1053 Rain Drop Circle,Warrnambool,77,3280
+206,15460,1054 Vine Circle,Burbank,9,91502
+207,20017,1054 Vloching Circle,York,14,Y024 1GF
+208,27652,1055 Horseshoe Road,London,14,SW1P 2NU
+209,19747,"1055, rue Basse-du-Rocher",Paris,161,75009
+210,11788,"10570, rue Lamarck",Saint Germain en Laye,164,78100
+211,21287,"10571, rue de Varenne",Lieusaint,163,77127
+212,29123,1058 Kirker Pass Road,Bendigo,77,3550
+213,20038,1058 Kirker Pass Road,Westminster,7,V3L 1H4
+214,26861,1058 Miwok Way,Bellingham,79,98225
+215,21545,1058 Park Blvd.,Woodburn,58,97071
+216,13342,1059 Delta Fair Blvd.,Port Hammond,7,V6B 3P7
+217,29387,1059 Kirkwood Ct,W. York,14,BD1 4SJ
+218,16475,1059 Stonewood Ct,Glendale,9,91203
+219,29015,1060 Mcelroy Court,Burbank,9,91502
+220,24496,1060 Mcelroy Court,South Melbourne,77,3205
+221,28294,1061 Buskrik Avenue,Coronado,9,92118
+222,147,1061 Buskrik Avenue,Edmonds,79,98020
+223,15754,1061 Carzino Ct,Bracknell,14,RG12 8TB
+224,16399,1061 Carzino Ct,Kirkby,14,KB9
+225,22171,1061 Delta Fair Blvd.,Bremerton,79,98312
+226,28845,1061 Delta Fair Blvd.,Milwaukie,58,97222
+227,27487,1063 Pinehurst Court,Lakewood,9,90712
+228,23736,1063 Pinehurst Court,Oxford,14,OX1
+229,18224,1064 Almond Drive,Warrington,14,WA3 7BH
+230,23075,1064 Armstrong Rd.,Langley,7,V3A 4R2
+231,21518,1064 Armstrong Rd.,South Melbourne,77,3205
+232,26756,1064 Diver Way,Spring Valley,9,91977
+233,28070,1064 Slavio,Lebanon,58,97355
+234,110,1064 Slow Creek Road,Seattle,79,98104
+235,22560,1064 William Way,Darlinghurst,50,2010
+236,11708,1064 William Way,Woodland Hills,9,91364
+237,14542,1065 Almond St.,Maidenhead,14,SL67RJ
+238,23031,1065 Almond St.,Santa Cruz,9,95062
+239,21830,1065 Coachman Pl.,Burien,79,98168
+240,21884,1065 Coachman Pl.,Wollongong,50,2500
+241,24315,1068 N Sweetbriar Court,La Jolla,9,92806
+242,22223,1069 Ahwanee Lane,Daly City,9,94015
+243,19445,1069 Ahwanee Lane,North Ryde,50,2113
+244,27386,1069 Bynum Way,Puyallup,79,98371
+245,23603,1069 Central Blvd.,Hobart,71,7001
+246,29022,"1069, boulevard du Montparnasse",Paris,161,75002
+247,26200,107 Woodside Court,Glendale,9,91203
+248,23236,"107, rue des Bouchers",Chatou,164,78400
+249,27294,1071 Stanz Grace St.,Chula Vista,9,91910
